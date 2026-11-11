@@ -3,6 +3,11 @@
   (uuid e31110e5-ca51-423c-949c-39cc15aeefdb)
 
   (paper "A2")
+  (title_block
+    (date "2023-07-21")
+    (rev "V1.3")
+    (comment 1 "Author: Porkchop Express")
+  )
 
   (lib_symbols
     (symbol "Connector:Screw_Terminal_01x05" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
