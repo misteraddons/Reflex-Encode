@@ -5,6 +5,11 @@
   )
 
   (paper "A4")
+  (title_block
+    (date "2023-01-12")
+    (rev "V1.1")
+    (comment 1 "Author: Porkchop Express")
+  )
   (layers
     (0 "F.Cu" signal)
     (1 "In1.Cu" power)
